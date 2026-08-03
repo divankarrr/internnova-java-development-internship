@@ -153,30 +153,6 @@ Primitive Data Types
 
 ---
 
-# 📂 Folder Structure
-
-```
-Day-02
-│
-├── README.md
-├── Notes.md
-├── Code
-│   ├── HelloWorld.java
-│   ├── Variables.java
-│   ├── DataTypes.java
-│   ├── Input.java
-│   ├── Sum.java
-│   ├── Product.java
-│   ├── AreaCircle.java
-│   ├── TypeConversion.java
-│   ├── TypeCasting.java
-│   └── TypePromotion.java
-│
-└── Output
-```
-
----
-
 # 📖 Key Learnings
 
 - Learned Java syntax and program structure.
@@ -186,15 +162,6 @@ Day-02
 - Implemented arithmetic programs.
 - Learned automatic and explicit type conversion.
 - Understood how Java programs execute inside JVM.
-
----
-
-# 🚀 Next Learning Goals
-
-- Operators
-- Conditional Statements
-- Loops
-- Functions (Methods)
 
 ---
 
